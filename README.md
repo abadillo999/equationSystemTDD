@@ -1,2 +1,2 @@
 # equationSystem
-Develop by Test First Development (TFD) an application for equation solving
+Develop by Test Driven Development (TDD) an application for equation solving
